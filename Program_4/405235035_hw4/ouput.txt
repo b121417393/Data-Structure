@@ -1,0 +1,20 @@
+Activity	Early	Late	Slack	Critical
+		e	l	l-e	l - e = 0
+a1		0	13	13	No
+a2		0	0	0	Yes
+a3		0	6	6	No
+a4		14	14	0	Yes
+a5		5	11	6	No
+a6		5	42	37	No
+a7		14	41	27	No
+a8		35	35	0	Yes
+a9		5	80	75	No
+a10		54	54	0	Yes
+a11		54	72	18	No
+a12		35	55	20	No
+a13		35	82	47	No
+a14		93	93	0	Yes
+a15		66	66	0	Yes
+a16		66	95	29	No
+a17		66	86	20	No
+a18		75	93	18	No
