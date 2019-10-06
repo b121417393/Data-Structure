@@ -1,0 +1,29 @@
+10 10 1019
+Data structures serve as the basis for?abstract data type. 
+The abstract data type defines the logical form of the data type. 
+The data structure implements the physical form of the data type.
+Data structures serve as the basis for?abstract data type. 
+The abstract data type defines the logical form of the data type. 
+The data structure implements the physical form of the data type.
+Data structures serve as the basis for?abstract data type. 
+The abstract data type defines the logical form of the data type. 
+The data structure implements the physical form of the data type.
+This project accounts for 15% of the total score
+You are not allowed to use ¡¨class¡¨ in STL to count the words
+You must implement a 2D array with the given size (i.e., #rows and #cols in input.txt) to count the words
+You can read this paper if you are interested in the research field:
+data
+Why are we having a beta?
+Based on community feedback, in order to get new patch data up even faster (from 3 days down to under 1) our Blitz team has been tinkering and improving our aggregation methods for the past four months. We are now gathering data up to 10 times faster than previously! That also means that we have more Champion Roles, more Match-ups, and the data will be more statistically relevant/accurate.
+
+Why are the stats different?
+As you are comparing our beta site versus the current Champion.gg site you will notice there will be a difference in win-rates, play-rates, completed champion builds, etc. This is because we are gathering more matches and they are coming from ALL regions instead of just NA, EU, and KR. What that means is that the data will be updated faster, more frequently, and be more accurate.
+
+How frequently is data updated?
+Data is updated as soon as possible whenever a new patch is released (usually within a day). Then it will be updated twice a day at 12 and 24 GMT+0
+
+What¡¦s going to happen to the Champion.gg API?
+We are planning to build an even more robust API. The old API will remain until May 15th, 2017, and then will be deprecated in favor of the new one. We set this date far enough out so that users can continue to use the existing API and not have to rush to transition to the new API. Don¡¦t worry, proper documentation and tools are coming very soon(?)!
+
+
+
